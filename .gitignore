@@ -2,3 +2,6 @@
 .env.encrypted
 secret.key
 venv
+__pycache__/
+*.py[cod]
+*$py.class
