@@ -1,0 +1,4 @@
+.env
+.env.encrypted
+secret.key
+venv
